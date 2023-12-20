@@ -3,4 +3,7 @@
 
 
 if __name__ == "__main__":
-    print("Hello, Friend!")
+    print("Hello, Friend!", '\n')
+
+    for i in range(10):
+        print(i)
