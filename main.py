@@ -10,3 +10,9 @@ if __name__ == "__main__":
 
     print("Pack your Parka, Morty...")
     print("We're going to the North Pole!")
+
+    print("*********************")
+
+    print("=====================================")
+
+    print("Confusion of da Highest Orda!!!!")
