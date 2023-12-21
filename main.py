@@ -10,3 +10,7 @@ if __name__ == "__main__":
 
     print("Pack your Parka, Morty...")
     print("We're going to the North Pole!")
+
+    print("The part where it said Branch name Pattern")
+
+    print("was confusing, changed it to main..should be ok now!!")
