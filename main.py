@@ -5,8 +5,4 @@ import datetime
 if __name__ == "__main__":
     print("Hello, Friend!", '\n')
 
-    for i in range(100):
-        print(i, datetime.datetime.now())
-
-    print("Pack your Parka, Morty...")
-    print("We're going to the North Pole!")
+    print("Greetings from brnach x vm dev")
