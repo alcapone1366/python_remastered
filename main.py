@@ -13,3 +13,7 @@ if __name__ == "__main__":
     print(".....")
 
     print("No escape from reality!")
+
+    print("Mammaaaaaaa..............")
+
+    print("OoOOOOoooOoohhhhhhhh!!!")
