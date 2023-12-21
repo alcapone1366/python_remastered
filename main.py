@@ -7,3 +7,9 @@ if __name__ == "__main__":
 
     for i in range(10):
         print(i, datetime.datetime.now())
+
+    print("Is this the real life?")
+    print("or, is this just Fantasy?")
+    print(".....")
+
+    print("No escape from reality!")
