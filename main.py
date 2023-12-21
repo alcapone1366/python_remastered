@@ -5,7 +5,7 @@ import datetime
 if __name__ == "__main__":
     print("Hello, Friend!", '\n')
 
-    for i in range(10):
+    for i in range(100):
         print(i, datetime.datetime.now())
 
     print("Pack your Parka, Morty...")
